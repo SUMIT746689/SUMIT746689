@@ -6,8 +6,8 @@
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com** 
 - ![header](https://capsule-render.vercel.app/api?color=auto)
-- type=wave&color=auto&height=300&section=header&&fontSize=50)
-- ![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&animation=fadeIn&fontSize=50)
+- scaleIn : scaleIn .8s
+- ![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&animation=scaleIn : scaleIn .8s&fontSize=50)
 - ![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&animation=fadeIn)
 
 <h3 align="left">Connect with me:</h3>
