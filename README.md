@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&text=Hello%20!%I'm%20Mehedi%20Hasan&fontSize=40) 
-![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&&animation=scaleIn&fontSize=40)
-desc=Hello%20capsule%20render
+![header](https://capsule-render.vercel.app/api?color=auto&type=waving&animation=scaleIn&text=Hello%20!%I'm%20Mehedi%20Hasan&fontSize=40) 
 <h3 align="center">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
