@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **Chat Applicaton**
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
