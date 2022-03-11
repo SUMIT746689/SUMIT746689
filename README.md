@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,%I'm%Mehedi%Hasan%Sumit&animation=scaleIn&fontSize=10)
+![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,%I'm%Mehedi%Hasan%Sumit&animation=scaleIn&fontSize=40&fontAlign=70)
 
 <h3 align="center">A MERN STUCK developer</h3>
 
