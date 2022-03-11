@@ -6,7 +6,7 @@
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com** 
 - ![header](https://capsule-render.vercel.app/api?color=auto)
-- ![header](https://capsule-render.vercel.app/api?color=auto&text=Hello%!%�,I'm%Mehedi%Hasan%Sumit)
+- ![header](https://capsule-render.vercel.app/api?color=auto&text=Hello%!%,I'm%Mehedi%Hasan%Sumit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
