@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&desc=Hello%20capsule%20render&fontSize=40) 
+![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&desc=Hello%20capsule%20&fontSize=40) 
 ![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&&animation=scaleIn&fontSize=40)
 desc=Hello%20capsule%20render
 <h3 align="center">A MERN STUCK developer</h3>
