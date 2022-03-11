@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">Hello ! 👋, I'm Mehedi Hasan</h1>
-![header](https://capsule-render.vercel.app/api?text=Hello%!%👋,%I'm Mehedi%Hasan%Sumit)
+![header](https://capsule-render.vercel.app/api?text=Hello%!%👋,%I'm%Mehedi%Hasan%Sumit)
 <h3 align="center">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
