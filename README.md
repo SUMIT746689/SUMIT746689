@@ -9,9 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-sumit-103621210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-hasan-sumit-103621210/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mehedihasan.sumit.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mehedihasan.sumit.5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mehedi_hasan_sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mehedi_hasan_sumit/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-sumit-103621210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-hasan-sumit-103621210/?challengeId=AQFRwykBfcYitgAAAX96N2OiENF0_Yi1gCIvk0DhsnfJ2PDWc8-nkN_E4FNhx5Cs17tP1IxInqaI3kqeYCL8Zu4ukSpR7p2TUw&submissionId=6f7933a0-9f66-db16-0ade-32e22bbdfd15" height="30" width="40" /></a>
+
+  <a href="https://fb.com/https://www.facebook.com/mehedihasan.sumit.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mehedihasan.sumit.5" height="30" width="40" /></a>
+
+  <a href="https://instagram.com/https://www.instagram.com/mehedi_hasan_sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mehedi_hasan_sumit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
