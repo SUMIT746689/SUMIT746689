@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&desc=Hello%20capsule%20render&animation=scaleIn&fontSize=40)
-
-<h3 align="left">A MERN STUCK developer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&animation=scaleIn&desc=Hello%20capsule%20render&fontSize=40) 
+![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&&animation=scaleIn&fontSize=40)
+desc=Hello%20capsule%20render
+<h3 align="center">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com**
-- ![header](https://capsule-render.vercel.app/api?type=waving) 
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
