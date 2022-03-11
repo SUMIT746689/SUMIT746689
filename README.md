@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on **Chat Applicaton**
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com** 
-- ![header](https://capsule-render.vercel.app/api?color=auto)
-- scaleIn : scaleIn .8s
+- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 - ![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&animation=scaleIn&fontSize=50)
 - ![header](https://capsule-render.vercel.app/api?color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&animation=fadeIn)
 
