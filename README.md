@@ -1,4 +1,4 @@
-<h1 align="center">Hello ! 👋, I'm 'm Mehedi Hasan</h1>
+<h1 align="center" color="blue">Hello ! 👋, I'm 'm Mehedi Hasan</h1>
 <h3 align="center">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
