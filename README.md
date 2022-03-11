@@ -1,11 +1,12 @@
 <h1 align="center" color="blue">Hello ! 👋, I'm Mehedi Hasan</h1>
-![header](https://capsule-render.vercel.app/api?color=auto&text=Hello ! 👋,I'm Mehedi Hasan Sumit)
+
 <h3 align="center">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
 - 💬 Ask me about **react,node.js,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com** 
 - ![header](https://capsule-render.vercel.app/api?color=auto)
+- ![header](https://capsule-render.vercel.app/api?color=auto&text=Hello ! 👋,I'm Mehedi Hasan Sumit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
