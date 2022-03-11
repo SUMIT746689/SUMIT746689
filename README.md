@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&height=200&section=header&text=Hello%!%,%I'm%Mehedi%Hasan%Sumit&animation=scaleIn&fontSize=40&fontAlignY=30)
 
-<h3 align="center">A MERN STUCK developer</h3>
+<h3 align="left">A MERN STUCK developer</h3>
 
 - 🔭 I’m currently working on **Chat Applicaton**
 - 💬 Ask me about **react,node.js,mongodb**
