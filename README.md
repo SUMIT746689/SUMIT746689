@@ -7,7 +7,7 @@
 - 📫 How to reach me **mehedihasansumit@gmail.com** 
 - ![header](https://capsule-render.vercel.app/api?color=auto)
 - ![header](https://capsule-render.vercel.app/api?color=auto&text=Hello%!%,I'm%Mehedi%Hasan%Sumit)
-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%!%,I'm%Mehedi%Hasan%Sumit&fontSize=90)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
