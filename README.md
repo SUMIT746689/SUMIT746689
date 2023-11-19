@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&type=waving&height=200&animation=scaleIn&text=Hello%20!%20I'm%20Mehedi%20Hasan&fontSize=50&fontAlignY=35)<h3 align="left">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **POS application and nlan e-commerce web application **
-- 💬 Ask me about **react,node.js,mongodb**
+- 🔭 I’m currently working on a ** saas based project **
+- 💬 Ask me about **react,node.js, mysql,mongodb**
 - 📫 How to reach me **mehedihasansumit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
